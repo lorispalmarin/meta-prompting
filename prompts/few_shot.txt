@@ -1,0 +1,4 @@
+Here are two examples of good prompts for creative storytelling tasks:
+	1.	Write a prompt that asks a language model to create a science fiction fable about a lonely AI in a medieval kingdom.
+	2.	Write a prompt instructing a model to tell a detective story in the tone of a children’s bedtime tale.
+Now, write a new prompt asking for a fairy tale that combines two different narrative styles.

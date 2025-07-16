@@ -1,0 +1,2 @@
+Write a prompt that asks a language model to generate a short fairy tale combining two contrasting narrative styles,
+such as horror and comedy, or fantasy and noir.

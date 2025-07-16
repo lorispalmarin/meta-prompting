@@ -1,0 +1,4 @@
+You are a senior prompt engineer. Your task is to design a clear and effective prompt that instructs a language model
+to generate a short fairy tale blending two distinct narrative genres—like mystery and folklore, or cyberpunk and
+classic fable. Make sure the prompt is both specific and creatively inspiring.
+Your prompt should be optimized for clarity and creative potential.
