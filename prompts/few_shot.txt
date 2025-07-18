@@ -1,4 +1,8 @@
-Here are two examples of good prompts for creative storytelling tasks:
-	1.	Write a prompt that asks a language model to create a science fiction fable about a lonely AI in a medieval kingdom.
-	2.	Write a prompt instructing a model to tell a detective story in the tone of a children’s bedtime tale.
-Now, write a new prompt asking for a fairy tale that combines two different narrative styles.
+Below are two examples of how to write creative fairy tales combining different genres:
+
+Example 1: A cyberpunk-fantasy tale about a magical hacker who reprograms dreams in a neon-lit forest
+Example 2: A noir-folklore story in which a cursed detective solves ghost crimes in a forgotten village.
+
+Now, using the same creative format and narrative balance, write a new fairy tale based on the two genres provided by the user.
+
+Blend the styles meaningfully and maintain the tone of a cohesive and well-written story."

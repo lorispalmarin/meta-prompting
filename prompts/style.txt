@@ -1,2 +1,8 @@
-Write the prompt in a poetic and evocative style. The prompt should ask a language model to generate a short fairy tale
-that merges two contrasting genres—like horror and comedy, or sci-fi and myth—blending them into a single imaginative story.
+Write the fairy tale using rich, evocative language and a strong narrative voice.
+
+Your task is to weave a story that merges two contrasting genres given by the user such as horror and comedy,
+or myth and sci-fi \u2014 into a seamless narrative.
+
+The style should reflect literary flair and poetic rhythm while ensuring that the fusion of genres feels natural and deliberate.
+
+Make the story stylistically distinct, imaginative, and immersive.
