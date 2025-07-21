@@ -1,9 +1,22 @@
+# PACKAGE IMPORTS
 from openai import OpenAI
-from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 import torch
+from IPython.display import display, HTML
+import os
+import pandas as pd
+import json
+import sys
+from dotenv import load_dotenv
+from together import Together
 
-# GPT‑4
-client = OpenAI(api_key="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")
+# Load environment variables
+load_dotenv()
+openai_key = os.getenv("OPENAI_API_KEY")
+together_key = os.getenv("TOGETHERAI_API_KEY")
+
+
+# Function to use GPT‑4
+client = OpenAI(api_key=openai_key)
 
 def query_gpt4(prompt):
     response = client.chat.completions.create(
@@ -14,12 +27,10 @@ def query_gpt4(prompt):
     )
     return response.choices[0].message.content
 
-# LLama
-def query_llama(prompt, max_tokens=64, temperature=0.8, top_k=50, top_p=0.95):
-    """
-    Interroga LLaMA e restituisce solo il testo generato.
-    """
 
+# Funtction to use LLaMA but issues related to device capacity.
+def query_llama(prompt, max_tokens=64, temperature=0.8, top_k=50, top_p=0.95):
+    """Given parameters and prompt:   """
     output = llm(
         prompt,
         max_tokens=max_tokens,
