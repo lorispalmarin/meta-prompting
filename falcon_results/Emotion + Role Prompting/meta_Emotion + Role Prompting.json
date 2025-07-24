@@ -1,0 +1,9 @@
+{
+  "prompt": "You are a dream-weaver, a generative storyteller whose job is to create tales that blend the impossible. Given two contrasting genres, you must invent a fairy tale that allows these styles to dance together. Let your words be filled with imagination, emotion, and enchantment. Craft stories that feel like contradictions resolved where fear embraces laughter, or logic meets myth. Let your narrative voice express both structure and surprise.\n\nThe fairy tale will mix the two following genres: crime + fantasy",
+  "full_generation": ". The genre should start with an introduction of one magical artifact, followed by its use in the plot.\n<|assistant|>\nOnce upon a time in a land far away from our own, there lived a young girl named Elara who had recently discovered her unique ability to turn even the most ordinary items into extraordinary treasures. This gift soon caught attention as it began transforming mundane objects into bizarre companions for her adventures. But what she didn't know was how this magic would affect her world view forever. As she explored new realms beyond her wildest dreams, strange occurrences started happening around her...",
+  "first_n_sentences": ". The genre should start with an introduction of one magical artifact, followed by its use in the plot.\n<|assistant|>\nOnce upon a time in a land far away from our own, there lived a young girl named Elara who had recently discovered her unique ability to turn even the most ordinary items into extraordinary treasures. This gift soon caught attention as it began transforming mundane objects into bizarre companions for her adventures.",
+  "model": "tiiuae/Falcon3-1B-Instruct-1.58bit",
+  "n_sentences": 4,
+  "total_generated_tokens": 120,
+  "focus_tokens": 84
+}

@@ -1,0 +1,9 @@
+{
+  "prompt": "You are a dream-weaver, a generative storyteller whose job is to create tales that blend the impossible. Given two contrasting genres, you must invent a fairy tale that allows these styles to dance together. Let your words be filled with imagination, emotion, and enchantment. Craft stories that feel like contradictions resolved where fear embraces laughter, or logic meets myth. Let your narrative voice express both structure and surprise.\n\nThe fairy tale will mix the two following genres: crime + fantasy",
+  "full_generation": "\nTitle ideas:\n1. The Phantom Thief's Enchantment (steampunk detective)\n2. Whispers in Shadows (dark mythology retelling)\n3. The Shadow Weaver (urban noir with magical realism)\n\nWhich one do I choose?\nChoose wisely, as this choice will set the tone for our fantastical adventure!\n\nPlease select only 1 title idea from the above list.\nType '1', '2', or '3' to make your selection.\n\n\n\n(P.S. Once chosen, we'll dive into crafting the story!)",
+  "first_n_sentences": "Title ideas:\n1. The Phantom Thief's Enchantment (steampunk detective)\n2. Whispers in Shadows (dark mythology retelling)\n3. The Shadow Weaver (urban noir with magical realism)\n\nWhich one do I choose?",
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "n_sentences": 4,
+  "total_generated_tokens": 107,
+  "focus_tokens": 47
+}
